@@ -1,4 +1,4 @@
-# printf
+# Printf_42
 #### Va siendo hora de reemplazar putnbr y putstr
 _Resumen: Este proyecto va bastante al grano. Deberás programar la función printf. Por suerte para ti, podrás reutilizarla en tus futuros proyectos como una función legítima de tu libft. Aprenderás principalmente a utilizar funciones variádicas._
 Versión: 9
