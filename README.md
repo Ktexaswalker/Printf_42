@@ -100,12 +100,3 @@ para una referencia completa: man 3 printf / man 3 stdarg
 Si tienes intención de hacer los bonus, deberías pensar en cómo
 hacerlos desde el principio para evitar enfocar el proyecto
 incorrectamente.
-
-
-
-
-
-# Printf_42
-# Printf_42
-# Printf_42
-# Printf_42
